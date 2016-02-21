@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	width: 100%;
+	top:0;
+	left:0;
+	font-family:"Hind", sans-serif;
+	background-color: white;
+}
+
+hr{
+	background-color:#43C9A6;
+	width:80%;
+	margin-left:10%;
+	margin-top:50px;
+	margin-bottom: 50px;
+	border:none;
+	height:1px;
+
+}
+
+.text{
+	font-size:3em;
+	font-weight: 300;
+	text-align: center;
+	width:90%;
+	margin-left:5%;
+}
+
+#image-holder{
+	width:100%;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#sowa-logo{
+	width:250px;
+}
+
